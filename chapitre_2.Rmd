@@ -1,4 +1,3 @@
-# Chapitre 3
+# Chapitre 2
 
-
-qsdfqsdfqsdf
+On n'a pas besoin d'éditeur yaml pour les chapitres après le premier qui doit être nommé index
